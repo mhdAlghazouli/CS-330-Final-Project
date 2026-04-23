@@ -57,6 +57,3 @@ Professionally, these skills can support work in front-end development, UI/UX, W
 - 3D Scene ZIP folder
 - Design Decisions document
 - README reflection
-
-## AI Usage Acknowledgment
-I used AI tools to help review, organize, and refine explanations for this project while making sure the final work reflected my own understanding and implementation.
